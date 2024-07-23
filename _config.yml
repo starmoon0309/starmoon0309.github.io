@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huiming Zheng\n郑慧明"
+title                    : "Huiming Zheng"
 description              : "I’m a third year Ph.D. student from School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University. My research interest includes learning-based visual media compression.
 "
 repository               : "starmoon0309/starmoon0309.github.io"
@@ -22,7 +22,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Huiming Zheng\n郑慧明"
+  name             : "Huiming Zheng"
   avatar           : "images/citations.jpg"
   bio              : "Peking University"
   location         : "China"

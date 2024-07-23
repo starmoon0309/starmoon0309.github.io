@@ -22,14 +22,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Huiming Zheng (任意)"
+  name             : "Huiming Zheng (郑慧明)"
   avatar           : "images/ry_profile.jpeg"
   bio              : "Peking University"
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  email            : "hmzheng@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,18 +38,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : 
   dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 

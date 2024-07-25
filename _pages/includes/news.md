@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.07*: 🎉 Two papers are accepted to **ACMMM 2024 (CCF-A Conference)**!
+- *2024.07*: 🎉 Three papers are accepted to **ACMMM 2024 (CCF-A Conference)**!
 - *2024.01*: 🎉 One paper is accepted to **ICRA 2024 (CCF-B Conference)**!
 - *2024.01*: 🎉 One paper is accepted to **DCC 2024 (CCF-B Conference)**!
 - *2023.12*: 🎉 One paper is accepted to **AAAI 2024 (CCF-A Conference)**!

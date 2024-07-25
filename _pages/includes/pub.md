@@ -6,7 +6,7 @@
 <a href='https://github.com/DJjjjhao/ase-merge'><i class="fab fa-github"></i>[GitHub]</a>
   
   **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
-<!-- [[PDF]](pdfs/ase23_merge.pdf) [[Code]](https://zenodo.org/record/5881117#.YeliUEBBwlI) -->
+<!-- [[PDF]](pdfs/ase23_merge.pdf) -->
 
 
 

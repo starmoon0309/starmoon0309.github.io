@@ -1,11 +1,11 @@
 
-# 📝 Publications 
+# 📝 Publications
 
-- [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
+- [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/DJjjjhao/ase-merge'></a>
   
-  **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
+  **Huiming Zheng**, Wei Gao*, Zhuozhen Yu, Tiesong Zhao, and Ge Li
 <!-- [[PDF]](pdfs/ase23_merge.pdf) -->
 
 

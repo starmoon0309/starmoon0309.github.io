@@ -39,5 +39,11 @@
   Wei Gao*, Shangkun Sun, **Huiming Zheng**, Yuyang Wu, Hua Ye, Yongchi Zhang
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3613464) -->
 
+- [APCCPA'22] **End-to-End Point Cloud Geometry Compression and Analysis with Sparse Tensor**
+<a href='https://dl.acm.org/doi/abs/10.1145/3552457.3555726'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  Liang Xie, Wei Gao*, **Huiming Zheng**
+<!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3552457.3555726) -->
+
 
 

@@ -7,4 +7,6 @@
 - *2020.12* [ByteDance Scholars Program](https://ur.bytedance.com/scholarship) (10 students in China each year)
 - *2019.12* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html), Xidian University
 - *2019.05* Outstanding Member of the Communist Youth League, The Communist Youth League Committee of Xidian University
+- *2018.12* Second prize in China Undergraduate Mathematical Contest in Modeling
+- *2018.11* Second prize in The Chinese Mathematics Competitions
 - *2018.11* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), Xidian University

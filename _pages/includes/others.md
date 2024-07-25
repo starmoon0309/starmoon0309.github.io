@@ -1,7 +1,7 @@
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D., Peking University.
-- *2017.09 - 2021.06*, Undergraduate, Xidian University.
+- *2021.09 - now*, Ph.D., Majoring in Computer Application Technology, Peking University.
+- *2017.09 - 2021.06*, Undergraduate, Majoring in Software Engineering, Xidian University.
 - *2014.09 - 2017.06*, Shenyang No.2 High School.
 
 # 💬 Invited Talks

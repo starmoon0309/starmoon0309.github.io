@@ -13,11 +13,11 @@
 
 - [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision** <span style="color:red;">(Accepted)</span>
   
-  liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
+  Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 
 - [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision** <span style="color:red;">(Accepted)</span>
   
-  liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
+  Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 
 
 - [DCC'24] **Semantic-aware visual decomposition for point cloud geometry compression**

@@ -52,4 +52,11 @@
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548545) -->
 
 
+- [CVPRW'21] **Deep Image Compression With Latent Optimization and Piece-Wise Quantization Approximation**
+<a href='https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Wu_Deep_Image_Compression_With_Latent_Optimization_and_Piece-Wise_Quantization_Approximation_CVPRW_2021_paper.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  Yuyang Wu, Zhiyang Qi, **Huiming Zheng**, Lvfang Tao, Wei Gao*
+<!-- [[PDF]](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Wu_Deep_Image_Compression_With_Latent_Optimization_and_Piece-Wise_Quantization_Approximation_CVPRW_2021_paper.pdf) -->
+
+
 

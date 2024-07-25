@@ -10,6 +10,7 @@
 - *2019.06* Bronze Medal in 2019 ICPC China Invitational and Silk-Road Contest
 - *2019.05* Outstanding Member of the Communist Youth League, The Communist Youth League Committee of Xidian University
 - *2019.04* Meritorious Winner in Interdisciplinary Contest in Modeling
+- *2019.03* Top 3% in Certified Software Professional
 - *2018.12* Second Prize in China Undergraduate Mathematical Contest in Modeling
 - *2018.11* Second Prize in The Chinese Mathematics Competitions
 - *2018.11* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), Xidian University

@@ -3,7 +3,7 @@
 
 - [ASE'23] **Merge Conflict Resolution: Classification or Generation?**
 <a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
-<a href='https://github.com/DJjjjhao/ase-merge'><i class="fab fa-github"></i>[GitHub]</a>
+<a href='https://github.com/DJjjjhao/ase-merge'></a>
   
   **Jinhao Dong**, Qihao Zhu, Zeyu Sun, Yiling Lou, and Dan Hao
 <!-- [[PDF]](pdfs/ase23_merge.pdf) -->

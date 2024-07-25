@@ -7,10 +7,8 @@
 
 
 - [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**
-<a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
-<!-- [[PDF]](pdfs/ase23_merge.pdf) -->
 
 - [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision**
   

@@ -12,6 +12,10 @@
   liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 <!-- [[PDF]](pdfs/ase23_merge.pdf) -->
 
+- [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision**
+  
+  liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
+
 
 
 - [ICSE'23] **Revisiting Learning-based Commit Message Generation** 

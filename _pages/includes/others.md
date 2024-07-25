@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2021.09 - now*, Master, Zhejiang University, Hangzhou.
-- *2017.09 - 2021.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2014.09 - 2017.06*, Shenyang No.2 High School, Shenyang.
+- *2021.09 - now*, Ph.D., Peking University.
+- *2017.09 - 2021.06*, Undergraduate, Xidian University.
+- *2014.09 - 2017.06*, Shenyang No.2 High School.
 
 # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)

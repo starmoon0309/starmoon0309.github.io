@@ -27,4 +27,11 @@
 <!-- [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533835/) -->
 
 
+- [AAAI'24] **End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy**
+<a href='https://ojs.aaai.org/index.php/AAAI/article/view/28588'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  **Huiming Zheng**, Wei Gao*
+<!-- [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28588) -->
+
+
 

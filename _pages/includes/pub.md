@@ -45,5 +45,11 @@
   Liang Xie, Wei Gao*, **Huiming Zheng**
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3552457.3555726) -->
 
+- [ACMMM'22] **OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression**
+<a href='https://dl.acm.org/doi/abs/10.1145/3503161.3548545'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  Wei Gao*, Hua Ye, Ge Li, **Huiming Zheng**, Yuyang Wu, Liang Xie
+<!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548545) -->
+
 
 

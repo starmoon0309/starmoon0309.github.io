@@ -5,9 +5,15 @@
 - *2014.09 - 2017.06*, Shenyang No.2 High School.
 
 # 💻 Academic Service
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+
+**Invited Talks**
+- *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
+
+**Reviewer**
+- *2024*: Conference on Neural Information Processing Systems (NIPS)
+- *2024*: Data Compression Conference (DCC)
+- *2023*: AAAI Conference on Artificial Intelligence (AAAI)
+- *2023*: International Conference on Multimedia and Expo Workshop on Immersive Media Compression (ICMEW)
+- *2023*: Neural Processing Letters (NEPL)
+- *2022*: Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA)
+- *2022,2024*: ACM International Conference on Multimedia (ACMMM)

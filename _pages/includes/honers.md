@@ -4,7 +4,7 @@
 - *2021.06* Nomination Award of The Undergraduate Graduate Star, Xidian University
 - *2020.12* [Role Model of the Year for Youth](https://mp.weixin.qq.com/s/pDjXAsyeeQyZP5Ipy0R4ng), Xidian University
 - *2020.10* Bronze Medal in CCF CCSP (Northwest China) 2020
-- *2019.12* **[National Scholarship]**(http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html), Xidian University
+- *2019.12* [**National Scholarship**](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html), Xidian University
 - *2019.10* **Bronze Medal in The 2019 ICPC Asia Nanjing Regional Contest**
 - *2019.06* Bronze Medal in 2019 ICPC China Invitational and Silk-Road Contest
 - *2019.05* Outstanding Member of the Communist Youth League, The Communist Youth League Committee of Xidian University
@@ -12,4 +12,4 @@
 - *2019.03* **Top 3%** in [Certified Software Professional](https://www.cspro.org/)
 - *2018.12* Second Prize in China Undergraduate Mathematical Contest in Modeling
 - *2018.11* Second Prize in The Chinese Mathematics Competitions
-- *2018.11* **[National Scholarship]**(http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), Xidian University
+- *2018.11* [**National Scholarship**](http://www.moe.gov.cn/srcsite/A05/s7505/201811/t20181114_354826.html), Xidian University

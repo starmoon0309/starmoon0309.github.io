@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression**
+- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** 
   
   Wei Gao*, **Huiming Zheng**, Chenhao Zhang, Kaiyu Zheng, Zhuozhen Yu, Yuan Li, Hua Ye, and Yongchi Zhang
   
@@ -45,8 +45,20 @@
   Liang Xie, Wei Gao*, **Huiming Zheng**
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3552457.3555726) -->
 
-- [ACMMM'22] **OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression**
+- [ACMMM'22] **OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression** (<span class="blink">Accepted</span>)
 <a href='https://dl.acm.org/doi/abs/10.1145/3503161.3548545'><i class="fa fa-file-pdf"></i>[PDF]</a>
+
+<style>
+@keyframes blink {
+  0% { color: red; }
+  50% { color: transparent; }
+  100% { color: red; }
+}
+.blink {
+  animation: blink 1s infinite;
+}
+</style>
+
   
   Wei Gao*, Hua Ye, Ge Li, **Huiming Zheng**, Yuyang Wu, Liang Xie
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548545) -->

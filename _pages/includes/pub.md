@@ -2,10 +2,8 @@
 # 📝 Publications
 
 - [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression**
-<a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   **Huiming Zheng**, Wei Gao*, Zhuozhen Yu, Tiesong Zhao, and Ge Li
-<!-- [[PDF]](pdfs/ase23_merge.pdf) -->
 
 
 - [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**

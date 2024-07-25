@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2022.12* Excellent Science & Technology Academic Paper for the 2022 Shenzhen 2nd Excellent Science & Technology Academic Paper Selection
+- *2022.12* Excellent Science &amp; Technology Academic Paper for the 2022 Shenzhen 2nd Excellent Science &amp; Technology Academic Paper Selection
 - *2021.06* Outstanding Graduate Role Model, Xidian University
 - *2021.06* Nomination Award of The Undergraduate Graduate Star, Xidian University
 - *2020.12* [Role Model of the Year for Youth](https://mp.weixin.qq.com/s/pDjXAsyeeQyZP5Ipy0R4ng), Xidian University

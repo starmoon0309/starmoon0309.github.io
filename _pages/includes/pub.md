@@ -33,5 +33,11 @@
   **Huiming Zheng**, Wei Gao*
 <!-- [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28588) -->
 
+- [ACMMM'23] **OpenDMC: An Open-Source Library and Performance Evaluation for Deep-learning-based Multi-frame Compression**
+<a href='https://dl.acm.org/doi/abs/10.1145/3581783.3613464'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  Wei Gao*, Shangkun Sun, **Huiming Zheng**, Yuyang Wu, Hua Ye, Yongchi Zhang
+<!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3613464) -->
+
 
 

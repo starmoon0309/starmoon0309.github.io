@@ -17,6 +17,14 @@
   liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 
 
+- [DCC'24] **Semantic-aware visual decomposition for point cloud geometry compression**
+<a href='pdfs/ase23_merge.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
+  
+  liang Xie, Wei Gao*, **Huiming Zheng**, and Hua Ye
+<!-- [[PDF]](pdfs/ase23_merge.pdf) -->
+
+
+
 
 - [ICSE'23] **Revisiting Learning-based Commit Message Generation** 
 <a href='pdfs/icse23_study.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>

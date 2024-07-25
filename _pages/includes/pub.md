@@ -1,17 +1,7 @@
 
 # 📝 Publications
 
-- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <span class="blink">(Accepted)</span>
-
-  <style>
-@keyframes blink {
-  0% { color: red; }
-  50% { color: transparent; }
-  100% { color: red; }
-}
-.blink {
-  animation: blink 1s infinite;
-}
+- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression**
   
   Wei Gao*, **Huiming Zheng**, Chenhao Zhang, Kaiyu Zheng, Zhuozhen Yu, Yuan Li, Hua Ye, and Yongchi Zhang
   

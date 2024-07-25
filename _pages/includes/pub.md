@@ -23,7 +23,7 @@
 - [DCC'24] **Semantic-aware visual decomposition for point cloud geometry compression**
 <a href='https://ieeexplore.ieee.org/abstract/document/10533835/'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
-  liang Xie, Wei Gao*, **Huiming Zheng**, and Hua Ye
+  Liang Xie, Wei Gao*, **Huiming Zheng**, and Hua Ye
 <!-- [[PDF]](https://ieeexplore.ieee.org/abstract/document/10533835/) -->
 
 

@@ -1,21 +1,21 @@
 
 # 📝 Publications
 
-- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression**
+- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <span style="color:red;">(Accepted)</span>
   
   Wei Gao*, **Huiming Zheng**, Chenhao Zhang, Kaiyu Zheng, Zhuozhen Yu, Yuan Li, Hua Ye, and Yongchi Zhang
   
 
-- [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression**
+- [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression** <span style="color:red;"> <span style="color:red;">(Accepted)</span>
   
   **Huiming Zheng**, Wei Gao*, Zhuozhen Yu, Tiesong Zhao, and Ge Li
 
 
-- [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**
+- [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision** <span style="color:red;">(Accepted)</span>
   
   liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 
-- [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision**
+- [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision** <span style="color:red;">(Accepted)</span>
   
   liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 

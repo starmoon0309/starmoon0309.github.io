@@ -1,5 +1,6 @@
 
 # 📝 Publications
+(* denotes corresponding author)
 
 - [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <span style="color:red;">(Accepted)</span>
   

@@ -36,26 +36,26 @@
 - [ACMMM'23] **OpenDMC: An Open-Source Library and Performance Evaluation for Deep-learning-based Multi-frame Compression**
 <a href='https://dl.acm.org/doi/abs/10.1145/3581783.3613464'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
-  Wei Gao*, Shangkun Sun, **Huiming Zheng**, Yuyang Wu, Hua Ye, Yongchi Zhang
+  Wei Gao*, Shangkun Sun, **Huiming Zheng**, Yuyang Wu, Hua Ye, and Yongchi Zhang
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3581783.3613464) -->
 
 - [APCCPA'22] **End-to-End Point Cloud Geometry Compression and Analysis with Sparse Tensor**
 <a href='https://dl.acm.org/doi/abs/10.1145/3552457.3555726'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
-  Liang Xie, Wei Gao*, **Huiming Zheng**
+  Liang Xie, Wei Gao*, and **Huiming Zheng**
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3552457.3555726) -->
 
 - [ACMMM'22] **OpenPointCloud: An Open-Source Algorithm Library of Deep Learning Based Point Cloud Compression**
 <a href='https://dl.acm.org/doi/abs/10.1145/3503161.3548545'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
-  Wei Gao*, Hua Ye, Ge Li, **Huiming Zheng**, Yuyang Wu, Liang Xie
+  Wei Gao*, Hua Ye, Ge Li, **Huiming Zheng**, Yuyang Wu, and Liang Xie
 <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548545) -->
 
 
 - [CVPRW'21] **Deep Image Compression With Latent Optimization and Piece-Wise Quantization Approximation**
 <a href='https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Wu_Deep_Image_Compression_With_Latent_Optimization_and_Piece-Wise_Quantization_Approximation_CVPRW_2021_paper.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
-  Yuyang Wu, Zhiyang Qi, **Huiming Zheng**, Lvfang Tao, Wei Gao*
+  Yuyang Wu, Zhiyang Qi, **Huiming Zheng**, Lvfang Tao, and Wei Gao*
 <!-- [[PDF]](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Wu_Deep_Image_Compression_With_Latent_Optimization_and_Piece-Wise_Quantization_Approximation_CVPRW_2021_paper.pdf) -->
 
 

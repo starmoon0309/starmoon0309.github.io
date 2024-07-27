@@ -12,7 +12,6 @@
 **Reviewer**
 - *2024*: Conference on Neural Information Processing Systems (NIPS)
 - *2024*: Data Compression Conference (DCC)
-- *2023*: AAAI Conference on Artificial Intelligence (AAAI)
 - *2023*: International Conference on Multimedia and Expo Workshop on Immersive Media Compression (ICMEW)
 - *2023*: Neural Processing Letters (NEPL)
 - *2022*: Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA)

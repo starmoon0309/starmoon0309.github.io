@@ -8,16 +8,16 @@
   
 
 - [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression** <span style="color:red;"> <span style="color:red;">(Accepted)</span>
-<a href='https://openreview.net/forum?id=nsvjKWy22R'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://openreview.net/forum?id=nsvjKWy22R'><i class="fa fa-file-pdf"></i>[Preprinted PDF]</a>
   
   **Huiming Zheng**, Wei Gao*, Zhuozhen Yu, Tiesong Zhao, and Ge Li
-<!-- [[PDF]](https://openreview.net/forum?id=nsvjKWy22R) -->
+<!-- [[Preprinted PDF]](https://openreview.net/forum?id=nsvjKWy22R) -->
 
 - [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision** <span style="color:red;">(Accepted)</span>
-<a href='https://openreview.net/forum?id=obknKk80Am'><i class="fa fa-file-pdf"></i>[PDF]</a>
+<a href='https://openreview.net/forum?id=obknKk80Am'><i class="fa fa-file-pdf"></i>[Preprinted PDF]</a>
   
   Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
-<!-- [[PDF]](https://openreview.net/forum?id=obknKk80Am) -->
+<!-- [[Preprinted PDF]](https://openreview.net/forum?id=obknKk80Am) -->
 
 - [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision** <span style="color:red;">(Accepted)</span>
   

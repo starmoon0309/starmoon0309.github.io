@@ -19,9 +19,11 @@
   Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
 <!-- [[Preprinted PDF]](https://openreview.net/forum?id=obknKk80Am) -->
 
-- [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision** <span style="color:red;">(Accepted)</span>
+- [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision**
+<a href='https://ieeexplore.ieee.org/abstract/document/10610894/'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
+<!-- [[PDF]](https://ieeexplore.ieee.org/abstract/document/10610894/) -->
 
 
 - [DCC'24] **Semantic-aware visual decomposition for point cloud geometry compression**

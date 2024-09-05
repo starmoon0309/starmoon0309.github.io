@@ -10,6 +10,7 @@
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
 
 **Reviewer**
+- *2024*: International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - *2024*: International Conference on Learning Representations (ICLR)
 - *2024*: Conference on Neural Information Processing Systems (NIPS)
 - *2024*: Data Compression Conference (DCC)

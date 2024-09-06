@@ -9,12 +9,14 @@
 **Invited Talks**
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
 
-**Reviewer**
-- *2024*: International Conference on Learning Representations (ICLR)
-- *2024*: Conference on Neural Information Processing Systems (NIPS)
-- *2024*: ACM International Conference on Multimedia (ACM MM)
-- *2024*: International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-- *2024*: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-- *2023*: International Conference on Multimedia and Expo Workshop on Immersive Media Compression (ICMEW)
-- *2023*: Neural Processing Letters (NEPL)
-- *2022*: Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA)
+**Reviewer of International Journals and Conferences**
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Neural Networks (NEUNET)
+- Neural Processing Letters (NPL)
+- International Conference on Learning Representations (ICLR)
+- Conference on Neural Information Processing Systems (NIPS)
+- ACM International Conference on Multimedia (ACM MM)
+- International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+- International Conference on Multimedia and Expo Workshop on Immersive Media Compression (ICMEW)
+- ACMMM Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA)

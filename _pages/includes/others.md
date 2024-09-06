@@ -10,6 +10,7 @@
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
 
 **Reviewer of International Journals and Conferences**
+- IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Neural Networks (NEUNET)
 - Neural Processing Letters (NPL)

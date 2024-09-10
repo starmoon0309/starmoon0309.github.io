@@ -12,6 +12,7 @@
 **Reviewer of International Journals and Conferences**
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - Neural Networks (NEUNET)
 - Neural Processing Letters (NPL)

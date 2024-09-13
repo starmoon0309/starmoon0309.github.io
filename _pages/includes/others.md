@@ -16,6 +16,7 @@
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - Neural Networks (NEUNET)
 - Neural Processing Letters (NPL)
+- Neurocomputing (NEUCOM)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NIPS)
 - ACM International Conference on Multimedia (ACM MM)

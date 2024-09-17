@@ -14,6 +14,7 @@
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Neural Networks (NEUNET)
 - Neurocomputing (NEUCOM)
 - Neural Processing Letters (NPL)

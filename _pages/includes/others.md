@@ -18,6 +18,7 @@
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Neural Networks (NEUNET)
 - Neurocomputing (NEUCOM)
+- Signal Processing (SIGPRO)
 - Neural Processing Letters (NPL)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NIPS)

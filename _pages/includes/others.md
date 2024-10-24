@@ -8,6 +8,7 @@
 
 **Invited Talks**
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
+- *2024.10*: IEEE International Conference on Image Processing, Abu Dhabi, United Arab Emirates
 
 **Reviewer of International Journals and Conferences**
 - IEEE Transactions on Image Processing (TIP)

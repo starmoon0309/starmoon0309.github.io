@@ -13,11 +13,10 @@
   **Huiming Zheng**, Wei Gao*, Zhuozhen Yu, Tiesong Zhao, and Ge Li
 <!-- [[PDF]](https://dl.acm.org/doi/10.1145/3664647.3681225) -->
 
-- [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision** <span style="color:red;">(Accepted)</span>
-<a href='https://openreview.net/forum?id=obknKk80Am'><i class="fa fa-file-pdf"></i>[Preprinted PDF]</a>
+- [ACMMM'24] **ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision** <a href='https://dl.acm.org/doi/10.1145/3664647.3681301'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   Liang Xie, Wei Gao*, **Huiming Zheng**, and Ge Li
-<!-- [[Preprinted PDF]](https://openreview.net/forum?id=obknKk80Am) -->
+<!-- [[PDF]](https://dl.acm.org/doi/10.1145/3664647.3681301) -->
 
 - [ICRA'24] **SPCGC: Scalable Point Cloud Geometry Compression for Machine Vision**
 <a href='https://ieeexplore.ieee.org/abstract/document/10610894/'><i class="fa fa-file-pdf"></i>[PDF]</a>

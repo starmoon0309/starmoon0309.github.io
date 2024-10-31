@@ -2,9 +2,10 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <span style="color:red;">(Accepted)</span>
+- [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <a href='https://dl.acm.org/doi/10.1145/3664647.3685519'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   Wei Gao*, **Huiming Zheng**, Chenhao Zhang, Kaiyu Zheng, Zhuozhen Yu, Yuan Li, Hua Ye, and Yongchi Zhang
+  <!-- [[PDF]](https://dl.acm.org/doi/10.1145/3664647.3685519) -->
   
 
 - [ACMMM'24] **ViewPCGC: View-Guided Learned Point Cloud Geometry Compression** <span style="color:red;"> <span style="color:red;">(Accepted)</span>

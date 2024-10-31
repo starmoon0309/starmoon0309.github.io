@@ -14,6 +14,7 @@
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Big Data (TBD)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)

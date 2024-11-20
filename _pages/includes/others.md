@@ -24,6 +24,7 @@
 - Neural Processing Letters (NPL)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NIPS)
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - ACM International Conference on Multimedia (ACM MM)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)

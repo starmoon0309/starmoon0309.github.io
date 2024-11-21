@@ -29,5 +29,6 @@
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 - Artificial Intelligence and Statistics Conference (AISTATS)
+- IEEE International Symposium on Circuits and Systems (ISCAS)
 - International Conference on Multimedia and Expo Workshop on Immersive Media Compression (ICMEW)
 - ACMMM Workshop on Advances in Point Cloud Compression, Processing and Analysis (APCCPA)

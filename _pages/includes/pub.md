@@ -2,7 +2,7 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective**
+- [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <span style="color:red;">(Accepted)</span>
   
   Kaiyu Zheng, Wei Gao*, and **Huiming Zheng**
 

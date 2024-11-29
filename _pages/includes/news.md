@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.11*: 🎉 One paper is accepted to **DCC 2025 (CCF-B Conference)**!
 - *2024.07*: 🎉 Three papers are accepted to **ACMMM 2024 (CCF-A Conference, CORE Rank A\*)**!
 - *2024.01*: 🎉 One paper is accepted to **ICRA 2024 (CCF-B Conference, CORE Rank A\*)**!
 - *2024.01*: 🎉 One paper is accepted to **DCC 2024 (CCF-B Conference)**!

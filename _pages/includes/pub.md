@@ -2,6 +2,10 @@
 # 📝 Publications
 (* denotes corresponding author)
 
+- [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective**
+  
+  Kaiyu Zheng, Wei Gao*, and **Huiming Zheng**
+
 - [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <a href='https://dl.acm.org/doi/10.1145/3664647.3685519'><i class="fa fa-file-pdf"></i>[PDF]</a>
   
   Wei Gao*, **Huiming Zheng**, Chenhao Zhang, Kaiyu Zheng, Zhuozhen Yu, Yuan Li, Hua Ye, and Yongchi Zhang

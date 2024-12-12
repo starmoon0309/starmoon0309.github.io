@@ -10,7 +10,7 @@
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
 - *2024.10*: IEEE International Conference on Image Processing, Abu Dhabi, United Arab Emirates
 
-**Reviewer of International Journals and Conferences**
+**Reviewer of International Journals**
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Multimedia (TMM)
@@ -22,6 +22,9 @@
 - Neurocomputing (NEUCOM)
 - Signal Processing (SIGPRO)
 - Neural Processing Letters (NPL)
+
+**Reviewer of International Conferences**
+- International Conference on Machine Learning (ICML)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NIPS)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)

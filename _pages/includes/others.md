@@ -30,6 +30,7 @@
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - ACM International Conference on Multimedia (ACM MM)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- International Joint Conference on Neural Networks (IJCNN)
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 - Artificial Intelligence and Statistics Conference (AISTATS)
 - IEEE International Symposium on Circuits and Systems (ISCAS)

@@ -28,6 +28,7 @@
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NIPS)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- IEEE International Conference on Computer Vision (ICCV)
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - ACM International Conference on Multimedia (ACM MM)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP)

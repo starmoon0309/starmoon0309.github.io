@@ -18,6 +18,7 @@
 - IEEE Transactions on Intelligent Transportation Systems (TITS)
 - IEEE Transactions on Big Data (TBD)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- ACM Transactions on Multimedia Computing Communications and Applications (TOMM)
 - Neural Networks (NEUNET)
 - Neurocomputing (NEUCOM)
 - Signal Processing (SIGPRO)

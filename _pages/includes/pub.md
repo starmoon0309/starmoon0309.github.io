@@ -2,9 +2,9 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <span style="color:red;">(Accepted)</span>
-  
+- [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <a href='https://ieeexplore.ieee.org/abstract/document/10992564'><i class="fa fa-file-pdf"></i>[PDF]</a>
   Kaiyu Zheng, Wei Gao*, and **Huiming Zheng**
+  <!-- [[PDF]](https://ieeexplore.ieee.org/abstract/document/10992564) -->
 
 - [ACMMM'24] **OpenDIC: An Open-Source Library and Performance Evaluation for Deep-learning-based Image Compression** <a href='https://dl.acm.org/doi/10.1145/3664647.3685519'><i class="fa fa-file-pdf"></i>[PDF]</a>
   

@@ -2,6 +2,10 @@
 # 📝 Publications
 (* denotes corresponding author)
 
+- [ACMMM'25] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression** <span style="color:red;">(Accepted)</span>
+
+  **Huiming Zheng**, Wei Gao*
+
 - [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <a href='https://ieeexplore.ieee.org/abstract/document/10992564'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   Kaiyu Zheng, Wei Gao*, and **Huiming Zheng**

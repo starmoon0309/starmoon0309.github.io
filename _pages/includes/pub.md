@@ -6,6 +6,10 @@
 
   **Huiming Zheng**, Wei Gao*
 
+- [ACMMM'25] **SCID-Compress900: A Multi-Scene Dataset of 4K and 1080P Screen Content Images for Image Compression Research** <span style="color:red;">(Accepted)</span>
+
+  **Huiming Zheng**, Linjie Zhou, and Wei Gao*
+
 - [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <a href='https://ieeexplore.ieee.org/abstract/document/10992564'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   Kaiyu Zheng, Wei Gao*, and **Huiming Zheng**

@@ -30,6 +30,7 @@
 - Conference on Neural Information Processing Systems (NIPS) (2024,2025)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2025)
 - IEEE International Conference on Computer Vision (ICCV) (2025)
+- AAAI Conference on Artificial Intelligence (AAAI) (2026)
 - International Joint Conference on Artificial Intelligence (IJCAI) (2025)
 - ACM International Conference on Multimedia (ACM MM) (2024,2025)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP) (2024)

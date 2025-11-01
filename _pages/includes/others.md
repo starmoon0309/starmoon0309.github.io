@@ -26,7 +26,7 @@
 
 **Reviewer of International Conferences**
 - International Conference on Machine Learning (ICML) (2025)
-- International Conference on Learning Representations (ICLR) (2025)
+- International Conference on Learning Representations (ICLR) (2025, 2026)
 - Conference on Neural Information Processing Systems (NIPS) (2024,2025)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (2025)
 - IEEE International Conference on Computer Vision (ICCV) (2025)

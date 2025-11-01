@@ -2,13 +2,15 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [ACMMM'25] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression** <span style="color:red;">(Accepted)</span>
+- [ACMMM'25] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression** <a href='https://dl.acm.org/doi/abs/10.1145/3746027.3756882'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   **Huiming Zheng**, Wei Gao*
+  <!-- [[PDF]](https://dl.acm.org/doi/abs/10.1145/3746027.3756882) -->
 
-- [ACMMM'25] **SCID-Compress900: A Multi-Scene Dataset of 4K and 1080P Screen Content Images for Image Compression Research** <span style="color:red;">(Accepted)</span>
+- [ACMMM'25] **SCID-Compress900: A Multi-Scene Dataset of 4K and 1080P Screen Content Images for Image Compression Research** <a href='https//dl.acm.org/doi/abs/10.1145/3746027.3756883'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   **Huiming Zheng**, Linjie Zhou, and Wei Gao*
+  <!-- [[PDF]](https//dl.acm.org/doi/abs/10.1145/3746027.3756883) -->
 
 - [DCC'25] **Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective** <a href='https://ieeexplore.ieee.org/abstract/document/10992564'><i class="fa fa-file-pdf"></i>[PDF]</a>
 

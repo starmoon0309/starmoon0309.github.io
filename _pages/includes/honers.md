@@ -1,4 +1,6 @@
 # 🎖 Honors and Awards
+- *2025.09* Second Prize Scholarship, Peking University
+- *2025.09* Outstanding Scientific Research Award, Peking University
 - *2024.09* Ping An AI Bank Scholarship, Peking University
 - *2024.09* Outstanding Scientific Research Award, Peking University
 - *2022.12* Excellent Science and Technology Academic Paper for the 2022 Shenzhen 2nd Excellent Science and Technology Academic Paper Selection

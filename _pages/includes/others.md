@@ -9,6 +9,7 @@
 **Invited Talks**
 - *2023.12*: The 8th National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, Shenzhen, China
 - *2024.10*: IEEE International Conference on Image Processing, Abu Dhabi, United Arab Emirates
+- *2025.10*: ACM International Conference on Multimedia, Dublin, Ireland
 
 **Reviewer of International Journals**
 - IEEE Transactions on Image Processing (TIP)

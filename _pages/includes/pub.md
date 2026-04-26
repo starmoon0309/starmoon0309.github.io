@@ -2,6 +2,8 @@
 # 📝 Publications
 (* denotes corresponding author)
 
+- [ISCAS'26] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression**
+
 - [ACMMM'25] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression** <a href='https://dl.acm.org/doi/abs/10.1145/3746027.3756882'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   **Huiming Zheng**, Wei Gao*

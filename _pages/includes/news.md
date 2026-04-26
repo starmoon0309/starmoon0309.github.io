@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🎉 One paper is accepted to IEEE TCSVT 2026 (JCR Q1 Top 5%, CCF-B Journal, IF=11.1)!
+- *2026.04*: 🎉 One paper is accepted to **IEEE TCSVT 2026 (JCR Q1 Top 5%, CCF-B Journal, IF=11.1)**!
 - *2026.01*: 🎉 One paper is accepted to ISCAS 2026 (CCF-B Conference, **Oral**)!
 - *2025.07*: 🎉 Two papers are accepted to **ACMMM 2025 (CCF-A Conference, CORE Rank A\*)**!
 - *2024.11*: 🎉 One paper is accepted to DCC 2025 (CCF-B Conference)!

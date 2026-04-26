@@ -2,7 +2,13 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [ISCAS'26] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression**
+- [IEEE TCSVT'26] **End-to-End RGB-D Image Compression with Efficient Mamba Cross-Attention**
+
+  **Huiming Zheng**, Wei Gao*
+
+- [ISCAS'26] **DiffPCGC: Efficient Point Cloud Geometry Compression via Diffusion Models**
+
+  **Huiming Zheng**, Wei Gao*
 
 - [ACMMM'25] **OpenMVC: An Open-Source Library for Learning-based Multi-view Compression** <a href='https://dl.acm.org/doi/abs/10.1145/3746027.3756882'><i class="fa fa-file-pdf"></i>[PDF]</a>
 

@@ -2,9 +2,11 @@
 # 📝 Publications
 (* denotes corresponding author)
 
-- [IEEE TCSVT'26] **End-to-End RGB-D Image Compression with Efficient Mamba Cross-Attention**
+- [IEEE TCSVT'26] **End-to-End RGB-D Image Compression with Efficient Mamba Cross-Attention** <a href='https://ieeexplore.ieee.org/abstract/document/11500499'><i class="fa fa-file-pdf"></i>[PDF]</a>
 
   **Huiming Zheng**, Wei Gao*
+
+  <!-- [[PDF]](https://ieeexplore.ieee.org/abstract/document/11500499) -->
 
 - [ISCAS'26] **DiffPCGC: Efficient Point Cloud Geometry Compression via Diffusion Models**
 

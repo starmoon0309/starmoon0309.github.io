@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.04*: 🎉 Our paper received the 2026 **IEEE CASS Multimedia Systems and Applications Technical Committee (MSA-TC) Best Paper Award**!
+- *2026.05*: 🎉 Our paper received the 2026 **IEEE CASS Multimedia Systems and Applications Technical Committee (MSA-TC) Best Paper Award**!
 - *2026.04*: 🎉 One paper was accepted to **IEEE TCSVT 2026 (JCR Q1 Top 5%, CCF-B Journal, IF=11.1)**!
 - *2026.01*: 🎉 One paper was accepted to ISCAS 2026 (CCF-B Conference, **Oral**)!
 - *2025.07*: 🎉 Two papers were accepted to **ACMMM 2025 (CCF-A Conference, CORE Rank A\*)**!

@@ -1,13 +1,14 @@
 # 🔥 News
-- *2026.04*: 🎉 One paper is accepted to **IEEE TCSVT 2026 (JCR Q1 Top 5%, CCF-B Journal, IF=11.1)**!
-- *2026.01*: 🎉 One paper is accepted to ISCAS 2026 (CCF-B Conference, **Oral**)!
-- *2025.07*: 🎉 Two papers are accepted to **ACMMM 2025 (CCF-A Conference, CORE Rank A\*)**!
-- *2024.11*: 🎉 One paper is accepted to DCC 2025 (CCF-B Conference)!
-- *2024.07*: 🎉 Three papers are accepted to **ACMMM 2024 (CCF-A Conference, CORE Rank A\*)**!
-- *2024.01*: 🎉 One paper is accepted to ICRA 2024 (CCF-B Conference, CORE Rank A\*)!
-- *2024.01*: 🎉 One paper is accepted to DCC 2024 (CCF-B Conference)!
-- *2023.12*: 🎉 One paper is accepted to **AAAI 2024 (CCF-A Conference, CORE Rank A\*)**!
-- *2023.07*: 🎉 One paper is accepted to **ACMMM 2023 (CCF-A Conference, CORE Rank A\*)**!
-- *2022.08*: 🎉 One paper is accepted to APCCPA 2022!
-- *2022.06*: 🎉 One paper is accepted to **ACMMM 2022 (CCF-A Conference, CORE Rank A\*)**!
-- *2021.04*: 🎉 One paper is accepted to CVPR 2021 Workshops!
+- *2026.04*: 🎉 One paper received the 2026 IEEE CASS Multimedia Systems and Applications Technical Committee (MSA-TC) Best Paper Award!
+- *2026.04*: 🎉 One paper was accepted to **IEEE TCSVT 2026 (JCR Q1 Top 5%, CCF-B Journal, IF=11.1)**!
+- *2026.01*: 🎉 One paper was accepted to ISCAS 2026 (CCF-B Conference, **Oral**)!
+- *2025.07*: 🎉 Two papers were accepted to **ACMMM 2025 (CCF-A Conference, CORE Rank A\*)**!
+- *2024.11*: 🎉 One paper was accepted to DCC 2025 (CCF-B Conference)!
+- *2024.07*: 🎉 Three papers were accepted to **ACMMM 2024 (CCF-A Conference, CORE Rank A\*)**!
+- *2024.01*: 🎉 One paper was accepted to ICRA 2024 (CCF-B Conference, CORE Rank A\*)!
+- *2024.01*: 🎉 One paper was accepted to DCC 2024 (CCF-B Conference)!
+- *2023.12*: 🎉 One paper was accepted to **AAAI 2024 (CCF-A Conference, CORE Rank A\*)**!
+- *2023.07*: 🎉 One paper was accepted to **ACMMM 2023 (CCF-A Conference, CORE Rank A\*)**!
+- *2022.08*: 🎉 One paper was accepted to APCCPA 2022!
+- *2022.06*: 🎉 One paper was accepted to **ACMMM 2022 (CCF-A Conference, CORE Rank A\*)**!
+- *2021.04*: 🎉 One paper was accepted to CVPR 2021 Workshops!

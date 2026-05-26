@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2026.05* IEEE CASS Multimedia Systems and Applications Technical Committee (MSA-TC) Best Paper Award
 - *2025.09* Second Prize Scholarship, Peking University
 - *2025.09* Outstanding Scientific Research Award, Peking University
 - *2024.09* Ping An AI Bank Scholarship, Peking University

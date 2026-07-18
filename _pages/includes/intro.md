@@ -1,1 +1,3 @@
 I am currently with [China Telecom Cloud Technology Co., Ltd.](https://www.ctyun.cn/), where I work on algorithm design and optimization. I received my Ph.D. degree from [Peking University](https://www.pku.edu.cn/), where I was advised by Tenured Associate Professor [Wei Gao](https://gaowei262.github.io/) and affiliated with the [National Engineering Research Center of Visual Technology](https://idm.pku.edu.cn/). My research interests include image, video, and point cloud compression.
+
+我目前就职于[天翼云科技有限公司](https://www.ctyun.cn/)，主要从事算法设计与优化工作。我博士毕业于[北京大学](https://www.pku.edu.cn/)，师从[高伟]长聘副教授(https://gaowei262.github.io/)，并隶属于[视频与视觉技术国家工程研究中心](https://idm.pku.edu.cn/)。我的研究方向包括图像、视频和点云压缩。
